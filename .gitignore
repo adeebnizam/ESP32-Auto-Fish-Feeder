@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Flutter/Dart
+.dart_tool/
+build/
+
+# ESP32/PlatformIO
+.pio/
+*.out
